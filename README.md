@@ -1,7 +1,7 @@
 👋 Olá, sou @disl0ny
-- 👀 Estou interessado em trabalhar com front end
-- 🌱 Atualmente estou aprendendo HTML5 e css3
-- 💞️ Estou procurando colaborar em trabalhos voluntários.
+- Estou interessado em trabalhar com front end
+-  Atualmente estou aprendendo HTML5 e css3
+-  Estou procurando colaborar em trabalhos voluntários.
 - 📫 você pode chegar até mim pelo meu instagram @_dislany
 
 <!---
