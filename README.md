@@ -3,6 +3,7 @@
 -  Atualmente estou aprendendo HTML5 e css3
 -  Estou procurando colaborar em trabalhos voluntários.
 - 📫 você pode chegar até mim pelo meu instagram @_dislany
+- https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 <!---
 disl0ny/disl0ny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
